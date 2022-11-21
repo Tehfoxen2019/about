@@ -4,7 +4,8 @@ tehfoxen@yandex.ru
 
 ***
 
-<img src="https://github.com/Tehfoxen2019/about/blob/c3e820e55a76af93712bc1ac8db8e95196866042/2.png" style="width: 200px;">
 
 
 
+
+![2](https://user-images.githubusercontent.com/49875663/203127406-72a9b755-4106-4665-bc50-04b7cb6ff786.png)
